@@ -6,6 +6,7 @@ import { defineConfig } from "vite";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/My-Portfolio/", // 👈 add this line (your repo name, case-sensitive)
   server: {
     host: "0.0.0.0",
     port: 5173,
