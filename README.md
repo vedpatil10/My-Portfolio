@@ -2,8 +2,6 @@
 
 A stunning, modern portfolio website built with React, TypeScript, and Tailwind CSS. Features advanced animations, responsive design, and a professional presentation of skills and projects.
 
-![Portfolio Preview](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop&crop=face&auto=format)
-
 ## ✨ Features
 
 ### 🎨 **Modern Design**
