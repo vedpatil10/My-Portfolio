@@ -270,7 +270,7 @@ export default function Index() {
                   transition={{ duration: 0.3 }}
                 >
                   <img
-                    src="\photo1.png"
+                    src="/photo1.png"
                     alt="Vedant Patil"
                     className="w-full h-full object-cover scale-125"
                     style={{ objectPosition: 'center 10%' }}
