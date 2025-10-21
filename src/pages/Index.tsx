@@ -58,21 +58,21 @@ const projects = [
     description:
       "Designed a web platform for technical fest registrations and payments, enabling students to browse events, register, and pay securely online through Razorpay. Built backend APIs using Express.js and Node.js for participant management and payment tracking.",
     tech: ["ReactJS", "Node.js", "Express.js", "MongoDB", "Razorpay"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/CrowdFunding-and-Event-Management-Platform",
   },
   {
     title: "YouTube Transcript Summarizer",
     description:
       "Built a Flask app that fetches YouTube transcripts and generates TLDRs with TextRank; delivers adjustable summaries in seconds, reducing time-to-insight by ~80–90% on typical 10–20 minute videos. Packaged for fast local setup (4 commands) and one-command run on port 5000.",
     tech: ["Python", "Flask", "TextRank", "NLP", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/Youtube-Transcript-Summarizer",
   },
   {
     title: "Early Breast Cancer Detection",
     description:
       "Built ML/DL system with 8 models (SVM, Random Forest, XGBoost, CNN) achieving 90%+ accuracy. XGBoost reached 93.4% on 9,686 mammogram images using SMOTE for class balance.",
     tech: ["Python", "TensorFlow", "Scikit-learn", "XGBoost", "CNN"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/Early-Breast-Cancer-Detection-Using-Machine-Learning-and-Deep-Learning",
   },
   {
     title: "Predictive Maintenance in Railways",
@@ -86,47 +86,40 @@ const projects = [
     description:
       "Unified SaaS dashboard for WordPress, Shopify & Webflow. Automated 20+ checks, improved Lighthouse scores 20-40%, enabled 60s backups/migrations & A/B tests increasing CTR 8-15%.",
     tech: ["React", "Node.js", "TypeScript", "MySQL", "JWT"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/SmartStudio",
   },
   {
     title: "AI Content Optimizer",
     description:
       "WordPress plugin with React, TypeScript & PHP. 20+ SEO/readability checks with AI suggestions, reducing editing time 30-50%. REST API with caching and exportable reports.",
     tech: ["React", "TypeScript", "PHP", "WordPress", "REST API"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/AI-Powered-WordPress-Content-Optimizer-Plugin",
   },
   {
     title: "Auto Reply AI Chatbot",
     description:
       "Intelligent chatbot with BERT & Sentence Transformers for sentiment analysis and intent recognition. 85% accuracy in real-time contextual responses.",
     tech: ["Python", "BERT", "NLP", "Machine Learning"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/Auto-Reply-AI-Chatbot",
   },
   {
     title: "AI Code Forge",
     description:
       "Full-stack AI code generator supporting 12+ languages. Real-time generation with syntax highlighting, 1-2s response time, 20+ persistent sessions with secure CORS & Helmet.",
     tech: ["ReactJS", "Node.js", "Express", "OpenAI API"],
-    github: "https://github.com/vedpatil10",
+    github: "https://github.com/vedpatil10/AI-CODE-FORGE",
   },
 ];
 
 const experience = [
-  {
-    title: "Central Railway Intern",
-    company: "Government of India",
-    location: "Mumbai",
-    period: "May 2023 – Jun 2023",
-    description:
-      "Monitored railway signal systems, documented findings, and collaborated across departments, gaining practical skills in data management, problem-solving, and large-scale workflow operations.",
-  },
+  
   {
     title: "Data Science Intern",
     company: "Spinnaker Analytics",
     location: "Work From Home",
     period: "Nov 2024 – Feb 2025",
     description:
-      "Built ETL pipelines and visualizations in Matplotlib improving reporting by 25%. Developed predictive models with scikit-learn including feature engineering.",
+      " Collaborated with the data team to clean, preprocess, and analyze large datasets, building ETL pipelines and creating visualizations in Matplotlib that improved business reporting efficiency by 25%. Assisted in developing and validating predictive models with scikit-learn, including feature engineering and tuning.",
   },
   {
     title: "Full Stack Developer (Freelancer)",
@@ -142,9 +135,24 @@ const experience = [
     location: "Work From Home",
     period: "Mar 2024 – Aug 2024",
     description:
-      "Built 5 WordPress websites with PHP, MySQL & ReactJS. Delivered responsive, SEO-optimized designs improving load performance by 40%.",
+      "Built and deployed 5 scalable client web apps using ReactJS and API-driven backend structure aligned with the MERN stack approach, optimizing performance and improving Lighthouse scores by 40%.",
   },
-  
+  {
+    title: "Machine Learning Intern",
+    company: "Kids Galaxy",
+    location: "Work From Home",
+    period: "Nov 2023 – Jan 2024",
+    description:
+      "Developed an AI based chatbot to assist and guide students and help them to solve queries using chat services.",
+  },
+  {
+    title: "Central Railway Intern",
+    company: "Government of India",
+    location: "Mumbai",
+    period: "May 2023 – Jun 2023",
+    description:
+      "Monitored railway signal systems, documented findings, and collaborated across departments, gaining practical skills in data management, problem-solving, and large-scale workflow operations.",
+  },
   {
     title: "Web Development Intern",
     company: "Tantrasoft Solutions",
